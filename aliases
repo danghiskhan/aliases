@@ -1,3 +1,5 @@
+alias co="git checkout $@"
+alias cln="git clone $@"
 alias d="git diff"
 alias dc="git diff --cached"
 alias s="git status"
